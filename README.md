@@ -3,7 +3,7 @@ This is a dummy repo to comment and try to make sense of the code of the project
 
 
 
-TLDR of Sprint 1:
+TLDR of Sprint 1 (objective = implementation of a city search input field)
 
 (S63 means seach.jsx line 63 / A17 means App.jsx line 17)
 
@@ -18,3 +18,9 @@ TLDR of Sprint 1:
 End result :
 	
 ![image](https://user-images.githubusercontent.com/92638765/197807495-4c7899e9-d110-42ac-b10c-b96662d2df96.png)
+
+Sprint 2 objective = Call the Current Weather API with those GPS coordinates to fetch the corresponding current weather
+<https://openweathermap.org/current>
+
+Sprint 3 objective = Call the Forecast Weather API with those GPS coordinates to fetch the corresponding current weather
+<https://openweathermap.org/api/hourly-forecast>
