@@ -1,6 +1,8 @@
 This is a dummy repo to comment and try to make sense of the code of the project 2
 
 
+
+
 TLDR of Sprint 1:
 
 (S63 means seach.jsx line 63 / A17 means App.jsx line 17)
