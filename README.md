@@ -19,8 +19,12 @@ End result :
 	
 ![image](https://user-images.githubusercontent.com/92638765/197807495-4c7899e9-d110-42ac-b10c-b96662d2df96.png)
 
-Sprint 2 objective = Call the Current Weather API with those GPS coordinates to fetch the corresponding current weather
+Sprint 2 objective = Call the Current Weather API with those GPS coordinates to fetch the corresponding current weather (Current City, Icon, Temperature, Status)
 <https://openweathermap.org/current>
 
-Sprint 3 objective = Call the Forecast Weather API with those GPS coordinates to fetch the corresponding current weather
+Sprint 3 objective = Call the Forecast Weather API with those GPS coordinates to fetch the corresponding hourly forecast weather for today and the next 2 days (O.00 ; 6.00am ; 12.00am ; 18.00pm) (Wind, Humidity, Sunrise, Sunset)
 <https://openweathermap.org/api/hourly-forecast>
+
+Sprint 4 objective = Implementing a back-up server to store Saved cities and retrieve a summary for them (City, Country, Icon, Temperature)
+
+Sprint 5 objective = Implementaing a subscribe list to be able to send a weekly newsletter with the weather to the user that wants it
