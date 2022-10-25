@@ -12,3 +12,9 @@ TLDR of Sprint 1:
 	- 2/ We are passing the data (S14), we are setting the new value (S15) and we are calling the onSearchChange (16)
 	
 	- 3/ onSearchChange has been passed from the app.jsx (A17) and that method is returning and splitting the latitudes and longitudes (A9)
+
+
+
+End result :
+	
+![image](https://user-images.githubusercontent.com/92638765/197807495-4c7899e9-d110-42ac-b10c-b96662d2df96.png)
