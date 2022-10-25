@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      //We import the Search Component in the App
+      // we import the Search Component in the App
       <Search onSearchChange={handleOnSearchChange} />
     </div>
   );
