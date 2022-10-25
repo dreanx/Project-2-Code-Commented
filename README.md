@@ -1,1 +1,1 @@
-This is a dummy repo to comment the code of the project 2
+This is a dummy repo to comment and try to make sense of the code of the project 2
